@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **mihajlokisil20@gmail.com**
 
-- 📄 Know about my experiences [read.cv/mikhailok](read.cv/mikhailok)
+- 📄 Know about my experiences [read.cv/mikhailok](https://read.cv/mikhailok)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
