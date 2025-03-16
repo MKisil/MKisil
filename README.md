@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mikhailo Kisil</h1>
 <h3 align="center">A passionate python backend developer</h3>
 
-<!-- ## 👨‍💻 My personal website [mikhailok.me](https://mikhailok.me)-->
+- 👨‍💻 My personal website [mikhailok.me](https://mikhailok.me)
 
 - 📫 How to reach me **mihajlokisil20@gmail.com**
 
