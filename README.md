@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mikhailo Kisil</h1>
-<h3 align="center">Full-Stack Web Developer</h3>
+<h3 align="center">Backend Developer</h3>
 
 - 👨‍💻 My personal website [mikhailok.me](https://mikhailok.me)
 
